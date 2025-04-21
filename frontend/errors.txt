@@ -1,0 +1,2 @@
+1. filter and audio url not change after selecting new in Popular
+1. filter and audio url not change after selecting new in Search
